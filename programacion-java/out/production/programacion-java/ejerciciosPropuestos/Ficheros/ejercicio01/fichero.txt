@@ -1,0 +1,5 @@
+Hola a todos
+Este es un archivo de texto de ejemplo.
+Contiene varias líneas de texto que pueden ser leídas por una aplicación Java.
+Espero que te sirva para practicar.
+¡Buena suerte!

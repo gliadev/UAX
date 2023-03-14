@@ -1,0 +1,18 @@
+Hola Damain aqui te va la explicacion del ejercicio.
+
+
+Lo primero que hecho a sido crear la excepcion nuestra propia que hereda todas las caracteristicas de la clase Exception
+que va ser la ControlarNumeroTelefono.
+
+Luego un ComprobarNumeroTelefono que es la que controla si que empiece por 6 7 o 9
+
+y desde la clase pincipal pido el numero de telefono en un principio habia hecho un try catch sin mas, pero luego ya
+como siempre me complicado, veras como en el examen no me sale...
+nda lo metido en un do while y dentro el try catch para que lo pida mientras el numero que meta no sea correcto,
+intentado hacer combinaciones distintas para los errores pero me dado cuenta que con controlar si empieza por 6, 7 o 9 y
+el numero de digitos era suficiente.
+
+Espero que te guste un saludo
+
+
+
